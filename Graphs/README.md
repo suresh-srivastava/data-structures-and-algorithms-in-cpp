@@ -1,6 +1,6 @@
 # Data Structures and Algorithms (DSA) In C++
 
-This  repository is for the students of book [Data Structures and Algorithms In C++](http://coursegalaxy.com/) and online courses available on CourseGalaxy. It contains the source code of all the programs used in the book and courses.
+This  repository is for the students of book [Data Structures and Algorithms In C++](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-cpp-dsa?coupon=GITHUB50) and online courses available on CourseGalaxy. It contains the source code of all the programs used in the book and courses.
 
 ### About the DSA Masterclass Courses
  * Thoroughly detailed courses with complete working programs
@@ -12,10 +12,10 @@ This  repository is for the students of book [Data Structures and Algorithms In 
 
 ### DSA Masterclass Courses on [CourseGalaxy](http://coursegalaxy.com/)
 
-[![data-structures-algorithms-java](https://user-images.githubusercontent.com/96913690/200234744-14a5ed97-085f-44f3-9298-979c2053c580.jpg)](https://coursegalaxy.usefedora.com/p/data-structures-algorithms-java?coupon_code=GITHUB75PER)
-[![data-structures-algorithms-python](https://user-images.githubusercontent.com/96913690/200234827-86aec10a-bfab-4371-91fc-e2be855ff1ff.jpg)](https://coursegalaxy.usefedora.com/p/data-structures-algorithms-python?coupon_code=GITHUB75PER)
-[![data-structures-algorithms-c](https://user-images.githubusercontent.com/96913690/200234592-25d33957-0e9e-4cc0-b324-2a73325aca85.jpg)](https://coursegalaxy.usefedora.com/p/data-structures-algorithms-c?coupon_code=GITHUB75PER)
-[![data-structures-algorithms-csharp](https://user-images.githubusercontent.com/96913690/200234905-67b85dfd-20c4-4f4b-afd2-e10d3568fff8.jpg)](https://coursegalaxy.usefedora.com/p/data-structures-algorithms-csharp?coupon_code=GITHUB75PER)
+[![data-structures-algorithms-java](https://user-images.githubusercontent.com/96913690/200234744-14a5ed97-085f-44f3-9298-979c2053c580.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-java-masterclass?coupon=GITHUB50)
+[![data-structures-algorithms-python](https://user-images.githubusercontent.com/96913690/200234827-86aec10a-bfab-4371-91fc-e2be855ff1ff.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-python-masterclass?coupon=GITHUB50)
+[![data-structures-algorithms-c](https://user-images.githubusercontent.com/96913690/200234592-25d33957-0e9e-4cc0-b324-2a73325aca85.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=GITHUB50)
+[![data-structures-algorithms-csharp](https://user-images.githubusercontent.com/96913690/200234905-67b85dfd-20c4-4f4b-afd2-e10d3568fff8.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-csharp-masterclass?coupon=GITHUB50)
 
 ## Copyright
 © Copyright Suresh Kumar Srivastava : All rights reserved.
