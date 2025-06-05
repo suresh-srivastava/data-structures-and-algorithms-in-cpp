@@ -1,6 +1,6 @@
 # Data Structures and Algorithms (DSA) in C++
 
-This  repository is for the students of book [Comprehensive Data Structures and Algorithms in C++](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579) and online course available on CourseGalaxy. It contains the source code of all the programs.
+This repository is for the students of book [Comprehensive Data Structures and Algorithms in C++](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579) and online course available on CourseGalaxy. It contains the source code of all the programs.
 
 [![comprehensive-data-structures-algorithms-cpp](https://github.com/user-attachments/assets/19b4ff22-198c-4c99-8cd4-05c3dc4f7766)](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579)
 
